@@ -24,6 +24,8 @@ This repository contains the implementation of our paper "STG-ProtoNet: Multi-Sc
 - torch-geometric==1.8+ (for graph neural network)
 - CUDA 11.1+ (for GPU acceleration)
 - scikit-learn, numpy, scipy (for EEG signal processing)
+## Dagtaset Prepatation
+Download our dataset from Baidu Drive: https://pan.baidu.com/s/1SMBTGtB-1mS8QMvD7gjPoA  (extraction code: EEGD)
 ## Quick Start
 1. Clone the repository:
 ```bash
